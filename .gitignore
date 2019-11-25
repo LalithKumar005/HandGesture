@@ -1,0 +1,4 @@
+.ipynb_*
+Dataset/
+TrainedModel/
+Temp.png
